@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [UI AUTOMATION OF WORDPRESS APPLICATION]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="WordPress application testcases(failed)">
+    <classes>
+      <class name="com.FreeCRM.testcases.MediaPageTest">
+        <methods>
+          <include name="VerifyMediaTabPageisdisplayed"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.FreeCRM.testcases.MediaPageTest -->
+      <class name="com.FreeCRM.testcases.LoginPageTest">
+        <methods>
+          <include name="LogoTest"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="LoginTest"/>
+          <include name="LoginPageTitleTest"/>
+        </methods>
+      </class> <!-- com.FreeCRM.testcases.LoginPageTest -->
+      <class name="com.FreeCRM.testcases.HomePageTest">
+        <methods>
+          <include name="ClickOnUserCreation"/>
+          <include name="VerifyMediaidDisplayed"/>
+          <include name="VerifyHomePageTitle"/>
+          <include name="tearDpwn"/>
+          <include name="Setup"/>
+          <include name="VerifyHelpTextisDisplayed"/>
+        </methods>
+      </class> <!-- com.FreeCRM.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- WordPress application testcases(failed) -->
+</suite> <!-- Failed suite [UI AUTOMATION OF WORDPRESS APPLICATION] -->

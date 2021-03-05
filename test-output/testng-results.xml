@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-19T13:15:54 IST" name="Default suite" finished-at="2021-02-19T13:19:45 IST" duration-ms="231129">
+    <groups>
+    </groups>
+    <test started-at="2021-02-19T13:15:54 IST" name="Default test" finished-at="2021-02-19T13:19:45 IST" duration-ms="231129">
+      <class name="com.FreeCRM.testcases.MediaPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FreeCRM.testcases.MediaPageTest@7494f96a]" started-at="2021-02-19T13:15:55 IST" name="setup" finished-at="2021-02-19T13:18:40 IST" duration-ms="165162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyMediaTabPageisdisplayed()[pri:0, instance:com.FreeCRM.testcases.MediaPageTest@7494f96a]" started-at="2021-02-19T13:18:40 IST" name="VerifyMediaTabPageisdisplayed" finished-at="2021-02-19T13:18:44 IST" duration-ms="4408" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMediaTabPageisdisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FreeCRM.testcases.MediaPageTest@7494f96a]" started-at="2021-02-19T13:18:44 IST" name="tearDown" finished-at="2021-02-19T13:19:45 IST" duration-ms="61143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCRM.testcases.MediaPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

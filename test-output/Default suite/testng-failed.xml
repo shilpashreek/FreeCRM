@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.FreeCRM.testcases.LoginPageTest">
+        <methods>
+          <include name="LogoTest"/>
+          <include name="SetUp"/>
+          <include name="tearDown"/>
+          <include name="LoginTest"/>
+          <include name="LoginPageTitleTest"/>
+        </methods>
+      </class> <!-- com.FreeCRM.testcases.LoginPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
