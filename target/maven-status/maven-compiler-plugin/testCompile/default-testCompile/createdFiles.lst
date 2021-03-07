@@ -1,0 +1,6 @@
+com\FreeCRM\testcases\MediaPageTest.class
+com\FreeCRM\testcases\getUsername.class
+com\FreeCRM\testcases\UserPageTest.class
+com\FreeCRM\testcases\TestNGRunner.class
+com\FreeCRM\testcases\HomePageTest.class
+com\FreeCRM\testcases\LoginPageTest.class

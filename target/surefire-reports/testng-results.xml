@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="10" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-07T17:22:01 IST" name="UI AUTOMATION OF WORDPRESS APPLICATION" finished-at="2021-03-07T17:27:45 IST" duration-ms="343549">
+    <groups>
+    </groups>
+    <test started-at="2021-03-07T17:22:01 IST" name="WordPress application testcases" finished-at="2021-03-07T17:27:45 IST" duration-ms="343549">
+      <class name="com.FreeCRM.testcases.MediaPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.FreeCRM.testcases.MediaPageTest@3e78b6a5]" started-at="2021-03-07T17:24:04 IST" name="setup" finished-at="2021-03-07T17:24:56 IST" duration-ms="51535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyMediaTabPageisdisplayed()[pri:0, instance:com.FreeCRM.testcases.MediaPageTest@3e78b6a5]" started-at="2021-03-07T17:24:56 IST" name="VerifyMediaTabPageisdisplayed" finished-at="2021-03-07T17:24:56 IST" duration-ms="451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMediaTabPageisdisplayed -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FreeCRM.testcases.MediaPageTest@3e78b6a5]" started-at="2021-03-07T17:24:56 IST" name="tearDown" finished-at="2021-03-07T17:25:43 IST" duration-ms="47023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCRM.testcases.MediaPageTest -->
+      <class name="com.FreeCRM.testcases.LoginPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:22:01 IST" name="SetUp" finished-at="2021-03-07T17:22:38 IST" duration-ms="36648" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginPageTitleTest()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:22:38 IST" name="LoginPageTitleTest" finished-at="2021-03-07T17:22:39 IST" duration-ms="493" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:22:39 IST" name="tearDown" finished-at="2021-03-07T17:22:55 IST" duration-ms="16112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:25:43 IST" name="SetUp" finished-at="2021-03-07T17:25:52 IST" duration-ms="8621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LogoTest()[pri:1, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:25:52 IST" name="LogoTest" finished-at="2021-03-07T17:25:52 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:25:52 IST" name="tearDown" finished-at="2021-03-07T17:25:53 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:26:45 IST" name="SetUp" finished-at="2021-03-07T17:26:54 IST" duration-ms="9145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginTest()[pri:3, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:26:54 IST" name="LoginTest" finished-at="2021-03-07T17:27:05 IST" duration-ms="10133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.FreeCRM.testcases.LoginPageTest@7068e664]" started-at="2021-03-07T17:27:05 IST" name="tearDown" finished-at="2021-03-07T17:27:22 IST" duration-ms="17229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.FreeCRM.testcases.LoginPageTest -->
+      <class name="com.FreeCRM.testcases.HomePageTest">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:22:55 IST" name="Setup" finished-at="2021-03-07T17:23:21 IST" duration-ms="26208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyHomePageTitle()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:23:21 IST" name="VerifyHomePageTitle" finished-at="2021-03-07T17:23:21 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePageTitle -->
+        <test-method is-config="true" signature="tearDpwn()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:23:21 IST" name="tearDpwn" finished-at="2021-03-07T17:24:04 IST" duration-ms="43218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDpwn -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:25:53 IST" name="Setup" finished-at="2021-03-07T17:26:14 IST" duration-ms="21150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyHelpTextisDisplayed()[pri:1, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:26:14 IST" name="VerifyHelpTextisDisplayed" finished-at="2021-03-07T17:26:14 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHelpTextisDisplayed -->
+        <test-method is-config="true" signature="tearDpwn()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:26:14 IST" name="tearDpwn" finished-at="2021-03-07T17:26:15 IST" duration-ms="895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDpwn -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:26:15 IST" name="Setup" finished-at="2021-03-07T17:26:29 IST" duration-ms="14502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="VerifyMediaidDisplayed()[pri:2, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:26:29 IST" name="VerifyMediaidDisplayed" finished-at="2021-03-07T17:26:34 IST" duration-ms="5216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMediaidDisplayed -->
+        <test-method is-config="true" signature="tearDpwn()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:26:34 IST" name="tearDpwn" finished-at="2021-03-07T17:26:45 IST" duration-ms="10764" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDpwn -->
+        <test-method is-config="true" signature="Setup()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:27:22 IST" name="Setup" finished-at="2021-03-07T17:27:39 IST" duration-ms="17007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ClickOnUserCreation()[pri:3, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:27:39 IST" name="ClickOnUserCreation" finished-at="2021-03-07T17:27:43 IST" duration-ms="4616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnUserCreation -->
+        <test-method is-config="true" signature="tearDpwn()[pri:0, instance:com.FreeCRM.testcases.HomePageTest@60db1c0e]" started-at="2021-03-07T17:27:43 IST" name="tearDpwn" finished-at="2021-03-07T17:27:45 IST" duration-ms="1476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDpwn -->
+      </class> <!-- com.FreeCRM.testcases.HomePageTest -->
+    </test> <!-- WordPress application testcases -->
+  </suite> <!-- UI AUTOMATION OF WORDPRESS APPLICATION -->
+</testng-results>
